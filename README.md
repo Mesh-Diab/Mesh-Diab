@@ -1,4 +1,4 @@
- #Hi, I'm Diab
+ # Hi, I'm Diab
 🎓 Civil Engineer whith passion in software development.
 💻 Frontend learner focused on HTML, CSS, JS and building strong fundamentals
 🎯 Goal: Become a skilled Frontend Developer with strong real-world projects
