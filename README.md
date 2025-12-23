@@ -1,7 +1,7 @@
  # Hi, I'm Diab
-🎓 Civil Engineer whith passion in software development.
-💻 Frontend learner focused on HTML, CSS, JS and building strong fundamentals
-🎯 Goal: Become a skilled Frontend Developer with strong real-world projects
+### 🎓 Civil Engineer whith passion in software development.
+### 💻 Frontend learner focused on HTML, CSS, JS and building strong fundamentals
+### 🎯 Goal: Become a skilled Frontend Developer with strong real-world projects
 <!--
 **Mesh-Diab/Mesh-Diab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
