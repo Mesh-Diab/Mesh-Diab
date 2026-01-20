@@ -1,18 +1,25 @@
- # Hi, I'm Ahmed Diab
-### 🎓 Civil Engineer whith passion in software development.
-### 💻 Frontend learner focused on HTML, CSS, JS and building strong fundamentals
-### 🎯 Goal: Become a skilled Frontend Developer with strong real-world projects
-<!--
-**Mesh-Diab/Mesh-Diab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ahmed Diab
 
-Here are some ideas to get you started:
+🎓 **Civil Engineer** | 💻 **Python & Web Developer (Learner)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a civil engineer aiming to **merge engineering with programming** by building tools, scripts, and small applications that automate tasks and solve real-world problems.
+
+---
+
+## 🔧 Skills & Interests
+
+* 🐍 Python
+* 🌐 Front-end Developer (HTML, CSS, JavaScript) | (beginner)
+* 🏗 Programming for Civil Engineering
+
+---
+
+## 📂 What You'll Find Here
+
+* Small Python projects & games
+* Utility scripts and learning experiments
+* Projects focused on automation and logic
+
+---
+
+⭐ Always learning and improving — feel free to explore my work and contact me!
